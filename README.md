@@ -28,4 +28,5 @@ The IoT-powered trash collection robot offers an innovative solution to marine p
 **Arduino IDE Application Link**:- 
 
 For Windows:- https://www.arduino.cc/en/donate/newsletter
+
 For MacOS:- https://www.arduino.cc/en/donate/newsletter
