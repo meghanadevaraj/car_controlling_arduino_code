@@ -17,7 +17,7 @@ The IoT-powered trash collection robot offers an innovative solution to marine p
 12. Bottles
 13. Jumper wires
 
-[**Overall budget** :- Around 6K (RS. 6,000)]
+[**Overall budget** :- Around 6K (RS. 6,000) for components]
 
 **CONNECTION:-** ![image](https://github.com/user-attachments/assets/ccecb4bc-27dc-43d4-8213-e5707fc20264)
 
