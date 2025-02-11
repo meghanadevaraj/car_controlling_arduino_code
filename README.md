@@ -24,9 +24,18 @@ The IoT-powered trash collection robot offers an innovative solution to marine p
 **Finall outcome:-**
 ![image](https://github.com/user-attachments/assets/bb692ae1-2617-4c07-93db-e8e4ba68b305)
 
+![image](https://github.com/user-attachments/assets/c2e815f6-e183-4162-ba70-e55a5c35945d)
+
+
 
 **Arduino IDE Application Link**:- 
 
 For Windows:- https://www.arduino.cc/en/donate/newsletter
 
 For MacOS:- https://www.arduino.cc/en/donate/newsletter
+
+
+we used Adroid App for controlling the robot (Arduino Bluetooth Controller app) . It's available in playstore 
+
+![image](https://github.com/user-attachments/assets/eb6b4f98-37d2-4bf0-9625-4f2e457c34e6)
+
